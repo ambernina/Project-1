@@ -3,6 +3,8 @@
 ## Description
 Unique Eats is a restaurant finder for when you are feeling adventurous. We included many types of cuisines from around the world to choose from. You simply choose what kind of cuisine you're craving, enter your city, and it gives you the top 4 results from the Zomato API.
 
+![](unique-eats-screenshot.png)
+
 ## License
 
 MIT License
